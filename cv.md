@@ -11,8 +11,11 @@ I want to change something in my life. I want to learn front-end development.
 #### Work experience
 Not yet
 
-##### Education and courses:
+##### Code examples
+not yet
+
+###### Education and courses:
 *JS/FE  in RSSchool
 
-###### Language:
+####### Language:
 English level - A2
