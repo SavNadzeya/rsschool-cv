@@ -9,6 +9,30 @@ body {
     padding: 0;
 }
 body {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.5;
+    color: blueviolet;
 }
+section {
+    font-size: 20px;
+}
+
+
+
+h1 {
+    color: black;
+    background-color: whitesmoke;
+    width: 250px;
+    height: 30%;
+    
+}
+
+h2 {
+    color: black;
+    background-color: aquamarine;
+    width: 250px;
+    height: 50%;
+}
+
